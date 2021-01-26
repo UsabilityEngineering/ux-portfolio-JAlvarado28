@@ -1,4 +1,4 @@
-# UX Jesus' beginning to the User eXperience World
+# Jesus' beginning to the User eXperience World
 
 
 ## UX Team Project
