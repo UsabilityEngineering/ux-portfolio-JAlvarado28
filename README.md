@@ -5,5 +5,5 @@
 
 
 ## UX Journal
-  https://github.com/UsabilityEngineering/ux-portfolio-JAlvarado28/blob/master/Journal%20Entry%201
-
+  
+  (Journal Entry 1): https://github.com/UsabilityEngineering/ux-portfolio-JAlvarado28/blob/master/Journal%20Entry%201
