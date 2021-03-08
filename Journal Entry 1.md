@@ -1,14 +1,25 @@
-# Project Title
+### Gaming on a Second Monitor 
 
-One Paragraph of project description goes here
+## by Jesus Alvarado ~ 03/07/2021
 
-## Getting Started
+# Goals:
+  -Connect to a second display whether it be a monitor or a tv. 
+  -Set up the sound to be heard from the second display.
+  -Set the correct resolution and play games on the second display.
+  
+ **memorable:** Should be easy to remember and be able to apply it with any other system such as windows or apple. 
+ **error tolerant:** Should be able to fix it even when something goes wrong. Such as having the display output be stretched out or zoomed out. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+# Description:
+  Last week, my friends and I had a game night in the living room. We all wanted to play a horror game, but I was the only one who had such game in my laptop. I brought it out   
+  and had them connect it. They were able to extend the display, but not figure out how to play on the second monitor or how to get the sound to stop comming from the laptop     
+  itself.
+  
+ # Description of the interaction:
+  1. Connect the HDMI to the ports on both the laptop and the television.
+  2. The television will automatically be set as a mirrored. Then changed it to an extended display. 
+    ![image](https://mail.google.com/mail/u/0?ui=2&ik=9ce5af4415&attid=0.1&permmsgid=msg-a:r-1262200305739229066&th=1780ffe149a63dd4&view=att&disp=safe&realattid=f_km0235990)
+    
 
 ```
 Give examples
