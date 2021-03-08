@@ -15,9 +15,7 @@
  **error tolerant:** Should be able to fix it even when something goes wrong. Such as having the display output be stretched out or zoomed out. 
 
 # Description:
-  Last week, my friends and I had a game night in the living room. We all wanted to play a horror game, but I was the only one who had such game in my laptop. I brought it out   
-  and had them connect it. They were able to extend the display, but not figure out how to play on the second monitor or how to get the sound to stop comming from the laptop     
-  itself.
+Last week, my friends and I had a game night in the living room. We all wanted to play a horror game, but I was the only one who had such game in my laptop. I brought it out and had them connect it. They were able to extend the display, but not figure out how to play on the second monitor or how to get the sound to stop comming from the laptop itself.
   
  # Description of the interaction:
   1. Connect the HDMI to the ports on both the laptop and the television.
@@ -27,81 +25,8 @@
   4. Start the game from steam. Make sure to make it in windowed mode or hit ALT + ENTER. 
   5. Set the resolution to fit the second display from the game itself or run it in windowed mode. 
   6. From the first display, set up the sound to the second display as it will play on the first display by default. 
+    ![image](https://user-images.githubusercontent.com/70178880/110275678-5eef0500-7f86-11eb-8fb4-c41f51d0810d.png)
+  7. Connect the controllers then start playing. 
     
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+ # Outcome
+Overall, it was a fun yet stressfull situation as five people tried to search on how to set up the television to play from the laptop. What was interesting was that everyone knew how to extend the display yet we could not figure out how to drag the game to the television. After changing it to windowed mode, we could drag it to the television yet it fullscreened on the laptop as we try to change the resolution. The process was **memorable** as we can apply this to any other situation such as getting a monitor, tv, or a projector. It is an easy process once we knew how to set the television as primary. We were lucky that the system was **error tolerant** as it gave us a minute to comfirm the changes we did to the display. If it was not accepted, then it will go back to how it was previously. 
