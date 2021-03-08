@@ -22,7 +22,11 @@
  # Description of the interaction:
   1. Connect the HDMI to the ports on both the laptop and the television.
   2. The television will automatically be set as a mirrored. Then changed it to an extended display. 
-    ![image]
+    ![image](https://user-images.githubusercontent.com/70178880/110275006-0b2fec00-7f85-11eb-9ddc-c52f6fffd09a.png)
+  3. Set the second display as primary in windows. 
+  4. Start the game from steam. Make sure to make it in windowed mode or hit ALT + ENTER. 
+  5. Set the resolution to fit the second display from the game itself or run it in windowed mode. 
+  6. From the first display, set up the sound to the second display as it will play on the first display by default. 
     
 
 ```
