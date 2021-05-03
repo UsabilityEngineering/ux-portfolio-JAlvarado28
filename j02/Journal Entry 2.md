@@ -19,6 +19,8 @@
 # Description:
 I had recently gotten this headset from best buy for gaming, music, and school. It came with a microphone and had a 7.1 surround sound. I installed the software called iCUE which is meant for Corsair’s products. With this, I aimed to adjust the sound quality for FPS gaming as well as adjust the microphone volume in which was too low for others who were not able to hear me. 
 
+![corsair headset](https://user-images.githubusercontent.com/70178880/116837749-89250380-ab80-11eb-945d-eaea9afe7e4d.JPG)
+
 # Description of the Interaction:
 
  -Sound:
