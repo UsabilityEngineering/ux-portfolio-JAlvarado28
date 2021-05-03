@@ -23,7 +23,7 @@ I had recently gotten this headset from best buy for gaming, music, and school. 
 
 # Description of the Interaction:
 
- -Sound:
+ -Sound Quality:
    1. I went into the iCUE app and selected the headset icon.
 ![ICUE](https://user-images.githubusercontent.com/70178880/116837779-a35ee180-ab80-11eb-979b-f34fff7cda68.JPG)
    2. I went into the equalizer sections and adjusted the bandwidth.
