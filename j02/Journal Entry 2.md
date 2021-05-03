@@ -25,6 +25,7 @@ I had recently gotten this headset from best buy for gaming, music, and school. 
 
  -Sound:
    1. Go into the iCUE app and select the headset icon.
+![ICUE](https://user-images.githubusercontent.com/70178880/116837779-a35ee180-ab80-11eb-979b-f34fff7cda68.JPG)
    2. Go into the equalizer sections and adjust the bandwidth.
    3. Save it as a preset for a specific purpose such as gaming or movies.
 
@@ -32,12 +33,15 @@ I had recently gotten this headset from best buy for gaming, music, and school. 
    1. Right-click on the sound icon on the right bottom corner of the screen.
    2. Click the sounds option and go into the Recording section.
    3. Select the headset’s properties and head to the levels.
+ ![mic properties](https://user-images.githubusercontent.com/70178880/116837785-a8239580-ab80-11eb-9f96-ce65cc644198.JPG)  
    4. Adjust the level to which sounds the best.
    5. If it is still low, search “Equalizer APO” in google and download the first recommendation.
    6. It will ask for permission to run in the system and it will then install with Wizard.
    7. A prompt will appear to choose the item to equalize. Choose the device in the Capture Device section.
+ ![configurator](https://user-images.githubusercontent.com/70178880/116837809-c5586400-ab80-11eb-9cca-f14af886922d.JPG) 
    8. I will then ask the user to restart the system. After restarting, go to the location the user chose to download too.
    9. Go to config which will bring up a notepad. It will display that the “Preamp” is set a -10 dB. Adjust the dB to the user’s preference. The higher it is, the louder the microphone will sound.
+ ![db](https://user-images.githubusercontent.com/70178880/116837812-c8535480-ab80-11eb-9500-c3d9462febf3.JPG)
    10.  Go to the file and save the notepad. 
 
 
