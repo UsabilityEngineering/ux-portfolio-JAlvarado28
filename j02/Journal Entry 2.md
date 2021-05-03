@@ -40,8 +40,9 @@ I had recently gotten this headset from best buy for gaming, music, and school. 
    7. A prompt will appear to choose the item to equalize. Choose the device in the Capture Device section.
  ![configurator](https://user-images.githubusercontent.com/70178880/116837809-c5586400-ab80-11eb-9cca-f14af886922d.JPG) 
    8. I will then ask the user to restart the system. After restarting, go to the location the user chose to download too.
-   9. Go to config which will bring up a notepad. It will display that the “Preamp” is set a -10 dB. Adjust the dB to the user’s preference. The higher it is, the louder the microphone will sound.
- ![db](https://user-images.githubusercontent.com/70178880/116837812-c8535480-ab80-11eb-9500-c3d9462febf3.JPG)
+   9. Go to config which will bring up a notepad. It will display that the “Preamp” is set a -10 dB. Adjust the dB to the user’s preference. The higher it    is, the louder the microphone will sound.
+
+![db](https://user-images.githubusercontent.com/70178880/116837812-c8535480-ab80-11eb-9500-c3d9462febf3.JPG)
    10.  Go to the file and save the notepad. 
 
 
